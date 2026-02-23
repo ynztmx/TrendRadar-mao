@@ -360,7 +360,7 @@ ai:
   
   model: "deepseek/deepseek-chat"
 
-  api_key: "sk-7af53bd02b3244cb986f86227c4cec32"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: ""                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://api.deepseek.com/v1"                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
