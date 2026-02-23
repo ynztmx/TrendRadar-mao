@@ -259,6 +259,7 @@ notification:
   # 推送渠道配置
   channels:
     feishu:
+      enabled: true
       webhook_url: ""                 # 飞书机器人 webhook URL
 
     dingtalk:
